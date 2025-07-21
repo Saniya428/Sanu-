@@ -1,4 +1,4 @@
-git add .
+git add . OR give only file name
     adds all files
 git commit -m "Message"
     the save message and confirms all changes
