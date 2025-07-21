@@ -1,0 +1,6 @@
+git add .
+    adds all files
+git commit -m "Message"
+    the save message and confirms all changes
+git push origin main/master
+    pushes all changes to github
